@@ -1,0 +1,10 @@
+{
+    "name": "Saurav Kumar",
+    "githubUsername": "your_github_username",
+    "bio": "A short professional or personal bio",
+    "pfpUrl": "https://link-to-your-profile-picture.jpg",
+    "socialLinks": {
+        "GitHub": "https://github.com/your_username",
+        "LinkedIn": "https://linkedin.com/in/your_profile"
+    }
+}
